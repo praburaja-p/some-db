@@ -1,5 +1,0 @@
-[
-	{ "id" : 1, "username":"raj", "password": "Admin", "email": "test@testing.com", "firstname": "Raj", "lastname": "r" },
-	{ "id" : 2, "username":"Rames", "password": "Admin1", "email": "test1@testing.com", "firstname": "Ramesh", "lastname": "p" }
- ]
-
